@@ -23,7 +23,6 @@ frontend/.env
 Thumbs.db
 
 # IDE
-.vscode/
 .idea/
 *.swp
-.env
+config.bat
